@@ -1,2 +1,2 @@
 # Learn_Kotlin
-my_first_progect
+my_first_project
